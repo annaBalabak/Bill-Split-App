@@ -1,0 +1,68 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1628336707631-68131ca720c3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    background-color:#466778 ;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color:rgba(177, 239, 239, 0.463);
+    width: 500px;
+    height: 720px;
+    margin: auto;
+    font-family: 'Aref Ruqaa Ink', serif;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+h1{
+    align-self: center;
+    font-size: 50px;
+    color: #8d0839;
+    text-shadow: 10px 10px 1px rgb(35, 116, 99);
+    margin: 0%;
+}
+p{
+    font-size: 20px;
+    margin: 0%;
+}
+span{
+    margin-bottom: 50px;
+}
+#addTip, #btn{
+    margin-top: 20px;
+}
+#addTip{
+    background-color: #C98474;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 15px;
+}
+#btn{
+    background-color: #057d69;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 15px;
+
+}
+#tip{
+    display: none;
+}
+#showTotalAmount{
+    display: flex;
+    justify-content: center;
+}
+#billSplit, #totalTip, #totalAmount{
+    background-color: #F2D388;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 20%;
+}
