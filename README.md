@@ -1,4 +1,7 @@
-<h1 align='center'>The Split Bill App 💰</h1>
+<div align='center'>
+  <h1>The Split Bill App</h1>
+  <img src='https://media.giphy.com/media/FAEEL82CUc1JPBas1V/giphy.gif' width='150px' />
+</div>
 <p> <b>The Split Bill App is a JavaScript application that helps you calculate the amount each person should pay when splitting a bill. It allows you to enter the total bill amount, the number of people sharing the bill, add a tip amount, and calculate the individual share for each person.</b> </p>
 <hr>
 <h2 align="center"> <em>Features</em></h2>
@@ -29,13 +32,12 @@
   <li>If any input is missing, error messages will be displayed in a pop up box.</li>
 </ol>
 <hr>
-<h2 align="center"> <em>Technologies used</em></h2>
-<p>This project is built with: 
-  <ul>
-    <li>JavaScript</li>
-    <li>HTML5</li>
-    <li>CSS3</li>
-  </ul>
+<div align="center">
+<h2><em>Technologies used</em></h2>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width='80px'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' width='80px'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' width='80px'/>
+</div>
 <hr>
 <h2 align="center"> <em>License</em></h2>
 <p>This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of this license.</p>
